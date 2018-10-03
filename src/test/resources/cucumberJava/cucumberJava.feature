@@ -1,3 +1,4 @@
+@all
 Feature: CucumberJava
 
 Scenario: Login functionality exists
